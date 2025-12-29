@@ -1,0 +1,1 @@
+npm run convert -- README.md README_simple.html --style simple
